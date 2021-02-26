@@ -1,0 +1,15 @@
+---
+title: "Athena Tamayo Luisce"
+image: "Foto.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/atmyo4"
+  - label: GitHub
+    url: "https://github.com/atmyo4"
+  - label: Email
+    url: "atamayo@lcg.unam.mx"
+output:
+  postcards::jolla
+---
+ 
+I am currently a student of genomic sciences at unam. I don't know what life has in store for me, but I hope one day to help make the world a little better.
